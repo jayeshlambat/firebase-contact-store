@@ -1,8 +1,8 @@
 {
+  "homepage": "https://jayeshlambat.github.io/firebase-contact-store",
   "name": "contact-store",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jayeshlambat.github.io/contact-store",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
